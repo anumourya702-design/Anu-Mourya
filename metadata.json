@@ -1,0 +1,6 @@
+{
+  "name": "OOP Smart Solver",
+  "description": "An interactive tool to solve OOP problems with dynamic inputs and C++ code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
